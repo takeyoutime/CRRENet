@@ -12,9 +12,6 @@ The following samples present challenges in the extraction of rural roads from r
   - [DeepGlobe Roads Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset) 
   - [Massachusetts Road Dataset](https://www.cs.toronto.edu/~vmnih/data/)
   - More datasets will be supported in the future.
-  
-- Dataset preprocessing
-  - Please refer to [**Geoseg**](https://github.com/WangLibo1995/GeoSeg)
 
 ## Overview framework of UMFormer
 
