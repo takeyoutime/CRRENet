@@ -1,8 +1,8 @@
-## A lightweight semantic segmentation network based on self-attention mechanism and state space model for real-time urban scene segmentation
+## Rural road extraction from remote sensing images based on multi-view contextual information and multi-stage features
 
 ## Introduction
 
-Some samples with challenges in semantic segmentation of remote sensing images:
+The following samples present challenges in the extraction of rural roads from remote sensing images.:
 
 ![Introduction](/Image/introduction.jpg)
 
