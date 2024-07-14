@@ -4,7 +4,7 @@
 
 The following samples present challenges in the extraction of rural roads from remote sensing images.:
 
-![Introduction](/Image/introduction.jpg)
+![Introduction](/Image/image.png)
 
 ## Dataset
 
