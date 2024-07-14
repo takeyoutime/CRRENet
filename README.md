@@ -13,9 +13,9 @@ The following samples present challenges in the extraction of rural roads from r
   - [Massachusetts Road Dataset](https://www.cs.toronto.edu/~vmnih/data/)
   - More datasets will be supported in the future.
 
-## Overview framework of UMFormer
+## Overview framework of CRRENet
 
-We aim to design a precise semantic segmentation network for remote sensing images. Inspired by the self-attention mechanism and Mamba, we propose UMFormer, a network that fuses these two techniques within an encoder-decoder framework to address the aforementioned challenges. UMFormer combines the respective advantages of CNN, self-attention mechanism and Mamba to create a hybrid network effectively.
+The overall structure adopts the encoder-decoder structure and improves on it, which consists of five parts: feature encoder, the MCIEM, the MFFM, the CCAM, and feature decoder.
 
 ![Overview Framework of UMFormer](/Image/CRRENet.jpg)
 
