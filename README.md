@@ -9,8 +9,8 @@ The following samples present challenges in the extraction of rural roads from r
 ## Dataset
 
 - Supported Remote Sensing Datasets
-  - [ISPRS Vaihingen and Potsdam](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx) 
-  - [UAVid](https://uavid.nl/)
+  - [DeepGlobe Roads Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset) 
+  - [Massachusetts Road Dataset](https://www.cs.toronto.edu/~vmnih/data/)
   - More datasets will be supported in the future.
   
 - Dataset preprocessing
