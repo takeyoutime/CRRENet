@@ -17,7 +17,7 @@ The following samples present challenges in the extraction of rural roads from r
 
 We aim to design a precise semantic segmentation network for remote sensing images. Inspired by the self-attention mechanism and Mamba, we propose UMFormer, a network that fuses these two techniques within an encoder-decoder framework to address the aforementioned challenges. UMFormer combines the respective advantages of CNN, self-attention mechanism and Mamba to create a hybrid network effectively.
 
-![Overview Framework of UMFormer](/Image/UMFormer.jpg)
+![Overview Framework of UMFormer](/Image/CRRENet.jpg)
 
 
 ## Comparison of network parameters
